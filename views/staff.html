@@ -1,0 +1,26 @@
+<div class="staffPage">
+  <section class="search">
+    <h1>Staff Lookup:</h1>
+    <label>search:</label>
+    <input ng-model="query" placeholder="Search for staff" autofocus>
+    <label class="formgroup">
+      <input type="radio" ng-model="direction" name="direction" checked>
+      ascending
+    </label>
+    <label class="formgroup"> 
+      <input type="radio" ng-model="direction" name="direction" value="reverse">
+      descending
+    </label>
+  </section>
+  
+  <section class="stafflist">
+    <div class="listWrapper">
+      <div ng-animate="'animate'" class="staff cf" ng-repeat="item in staff">
+        <h1>{{ item.name }}</h1>
+        <h2>Email: {{ item.email }}</h2>
+        <h2>Favorite color: {{ item.color }}<br>
+        defining word: {{ item.buzzword }}</h2>
+      </div>
+    </div>
+  </section>
+</div>

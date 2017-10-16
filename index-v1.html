@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" ng-app="rdApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular R&D App #1</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/lib/angular.min.js"></script>
+  <script src="js/lib/angular-route.min.js"></script>
+  <script src="js/lib/angular-animate.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+</head>
+
+<body>
+
+<!-- <header>
+  <nav class="cf" ng-include="'views/nav.html'"></nav>
+</header> -->
+<main class="cf" ng-controller = "StaffController">
+  <section class="search">
+    <h1>Staff Lookup:</h1>
+    <label>search:</label>
+    <input ng-model="query" placeholder="Search for staff" autofocus>
+  </section>
+  
+  <section class="stafflist">
+    <div class="listWrapper">
+      <div ng-animate="'animate'" class="staff cf" ng-repeat="item in staff">
+        <h1>{{ item.name }}</h1>
+        <h2>Email: {{ item.email }}</h2>
+        <h2>Favorite color: {{ item.color }}<br>
+        defining word: {{ item.buzzword }}</h2>
+      </div>
+    </div>
+  </section>
+</main>
+
+</body>
+</html>

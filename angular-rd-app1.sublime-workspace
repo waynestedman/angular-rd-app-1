@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"artists"
+			],
+			[
+				"arti",
+				"artistOrder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sub",
+				"SublimeLinter: Choose Mark Style"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 347.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 3564))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/PacWeb/htdocs/angular-rd-app-1"
+	],
+	"file_history":
+	[
+		"/Users/PacWeb/Desktop/angular1/js/app.js",
+		"/Users/PacWeb/Desktop/angular1/js/controllers.js",
+		"/Users/PacWeb/Desktop/angular1/partials/details.html",
+		"/Users/PacWeb/Desktop/angular1/index.html",
+		"/Users/PacWeb/Desktop/angular1/partials/list.html",
+		"/Users/PacWeb/Desktop/angular1/js/controllers-chap2.js",
+		"/Users/PacWeb/Desktop/angular1/index-chap2.html",
+		"/Users/PacWeb/Desktop/angular1/css/style.css",
+		"/Users/PacWeb/htdocs/angular1/index.html",
+		"/Users/PacWeb/htdocs/angular1/js/controllers.js",
+		"/C/Users/Wayne/Documents/Learn/Angular/angular-master/angular-master/js/controllers.js",
+		"/C/Users/Wayne/Documents/Learn/Angular/angular-master/angular-master/builds/angular/index.html",
+		"/C/websites/Log_app/gulpfile.js",
+		"/C/websites/test1/gulpfile.js",
+		"/C/websites/test1/index.html",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/05 Variables/variables3.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/05 Variables/variables2.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/13 Strings/strings.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/05 Variables/variables.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/11 Functions/functions5.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/05 Variables/variables5.py",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/14 Containers/utf8.html",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/14 Containers/containers2.py",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Wayne/Documents/Learn/Python/Ex_Files_Python_3_EssT/Ex_Files_Python_3_EssT/Exercise Files/12 Classes/classes5.py",
+		"/C/Users/Wayne/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda.py",
+		"/C/Users/Wayne/Google Drive/Robot Dev/Robot Web Services/Hello-Controller/HelloControllerHtml.html",
+		"/F/temp/PsiSurfaceManager/PsiSurfaceManager.sln",
+		"/F/PS_RhinoStartup/AutoScan_ver01.gh",
+		"/F/PS_RhinoStartup/jUnwind_v02.mod",
+		"/F/RhinoCommon Library/RhinoCommon.dll"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "angular-rd-app1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
