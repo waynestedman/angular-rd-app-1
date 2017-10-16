@@ -1,2 +1,2 @@
 # angular-rd-app-1
-Angular1 demo app
+Demo app built with Angular 1
